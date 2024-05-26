@@ -42,6 +42,7 @@ font-family: "Honk",
     <li>📖 Aprendendo <abbr title="HyperText Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> e JavaScript</li>
 </ul>
 
+
 ---
 
 <div>
@@ -53,5 +54,6 @@ font-family: "Honk",
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" width="40">
 </div>
 
+---
 ---
 

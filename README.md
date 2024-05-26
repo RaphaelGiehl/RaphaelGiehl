@@ -40,19 +40,19 @@
 <div align="left">
     <h2>Contatos</h2>
     <a href="https://www.linkedin.com/in/raphael-giehl-dos-santos-805580301/"
-    target="_blank" rel="external">
+    target="_blank">
         <img src="midias/linkeding-shields.png" alt="linkeding-shields" width="80px">
     </a>
     <a href="https://wa.me/5554991360676"
-    target="_blank" rel="external">
+    target="_blank">
         <img src="midias/whatsapp-shields.png" alt="whatsapp" width="90px">
     </a>
     <a href="mailto:raphaelgiehl0013@gmail.com"
-    target="_blank" rel="external">
+    target="_blank">
         <img src="midias/gmail- shields.png" alt="gmail" width="75px">
     </a>
     <a href="https://www.instagram.com/giehlraphael/"
-    target="_blank" rel="external">
+    target="_blank">
         <img src="midias/instagram-shields.png" alt="instagram" width="80px">
     </a>
 </div>

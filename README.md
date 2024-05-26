@@ -18,8 +18,8 @@
 
 <div>
     <h2>GitHub Status</h2>
-    <img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGiehl&show_icons=true&theme=bear&count_private=true"/>
-    <img height = "175em" src="https://github-readme-stats.vercel.app/api?username=RaphaelGiehl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+    <img height = "175em" src="https://github-readme-stats.vercel.app/api?username=RaphaelGiehl&show_icons=true&show_icons=true&theme=transparent&count_private=true" />
+    <img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGiehl&show_icons=true&theme=transparent&count_private=true"/>
 </div>
 
 ---
@@ -52,7 +52,7 @@
     </a>
     <a href="https://www.instagram.com/giehlraphael/"
     target="_blank" rel="external">
-        <img src="midias/instagram-shields.png" alt="instagram" width="90px">
+        <img src="midias/instagram-shields.png" alt="instagram" width="80px">
     </a>
 </div>
 

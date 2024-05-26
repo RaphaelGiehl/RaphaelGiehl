@@ -16,6 +16,26 @@
 
 ---
 
+<div>
+    <h2>GitHub Status</h2>
+    <img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGiehl&show_icons=true&theme=bear&count_private=true"/>
+    <img height = "175em" src="https://github-readme-stats.vercel.app/api?username=RaphaelGiehl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
+
+---
+
+<div>
+    <h2>My Skills</h2>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="JavaScript" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" width="40">
+</div>
+
+---
+
 <div align="left">
     <h2>Contatos</h2>
     <a href="https://www.linkedin.com/in/raphael-giehl-dos-santos-805580301/"
@@ -36,29 +56,7 @@
     </a>
 </div>
 
-
-
 ---
-
-<div>
-    <h2>My Skills</h2>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="JavaScript" width="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML" width="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" width="40">
-</div>
-
----
-
-
-
-<div align = "left">
-    <h2>GitHub Status</h2>
-    <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGiehl&show_icons=true&theme=bear&count_private=true"/>
-    <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=RaphaelGiehl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
 
 <h1>Atividade</h1>
 

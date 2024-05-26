@@ -67,4 +67,4 @@
 </p>
 
  ---
-snake
+![snake gif](https://github.com/RaphaelGiehl/RaphaelGiehl/blob/output/github-contribution-grid-snake.svg)

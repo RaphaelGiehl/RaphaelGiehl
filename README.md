@@ -1,35 +1,10 @@
-<style>
-    *{
-        margin: 0px;
-        padding: 0px;
-    }
-
-  body {
-        background-image: url(1up-cafe.png);
-        background-size: 150px;
-        background-repeat: no-repeat;
-        background-position: right top;
-        font-size: 1em;
-        
-    }
-h1.coffe {
-text-align: left;
-font-size: 20px;
-font-family: Arial, Helvetica, sans-serif;
-
-}
-
-</style>
+<img src="1up-cafe.png" alt="UpCafé" width="150" align = "right" >
 <br>
 <br>
 <br>
-<br>
-<br>
-<h1 class="coffe">👋 Olá, Sejá Bem Vindo!</h1>
+<h1>👋 Olá, Sejá Bem Vindo!</h1>
 
-
-
-
+---
 
 <ul>
     <li>🧑🏼‍💻 Sou desenvolvedor iniciante;</li>
@@ -50,6 +25,14 @@ font-family: Arial, Helvetica, sans-serif;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" width="40">
 </div>
 
+<h2>
+
 ---
----
+
+
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGiehl&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=RaphaelGiehl&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
 

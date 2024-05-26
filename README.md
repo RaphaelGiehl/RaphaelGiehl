@@ -1,10 +1,4 @@
 <style>
-   
-   @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
-
-
-    @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
-
     *{
         margin: 0px;
         padding: 0px;
@@ -20,16 +14,18 @@
     }
 h1.coffe {
 text-align: left;
-font-size: 30px;
-font-family: "Honk",
- Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
 
 }
 
 </style>
-
-
-<h1 class="coffe">👋 Olá, Meu nome é Raphael Giehl</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 class="coffe">👋 Olá, Sejá Bem Vindo!</h1>
 
 
 

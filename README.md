@@ -61,10 +61,10 @@
 </div>
 
 <h1>Atividade</h1>
-<!-- visitors count  -->
 
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/RaphaelGiehl/count.svg" />  
 </p>
 
- 
+ ---
+snake

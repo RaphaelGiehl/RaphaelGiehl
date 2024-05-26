@@ -18,8 +18,8 @@
 
 <div>
     <h2>GitHub Status</h2>
-    <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=RaphaelGiehl&theme=transparent&show_icons=true" />
-    <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGiehl&show_icons=true&theme=transparent&count_private=true"/>
+    <img height = "130em" src="https://github-readme-stats.vercel.app/api?username=RaphaelGiehl&theme=transparent&show_icons=true" />
+    <img height = "130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGiehl&show_icons=true&theme=transparent&count_private=true"/>
 </div>
 
 ---

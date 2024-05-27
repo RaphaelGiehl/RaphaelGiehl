@@ -1,4 +1,4 @@
-<img src="midias/1up-cafe.gif" alt="UpCafé" width="200" align = "right"/>
+<img src="midias/1up-cafe.gif" alt="UpCafé" width="150" align = "right"/>
 
 
     

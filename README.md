@@ -1,7 +1,6 @@
 <img src="midias/1up-cafe.gif" alt="UpCafé" width="150" align = "right"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&duration=4000&pause=1000&color=FC5E01&center=true&vCenter=true&random=true&width=500&height=65&lines=Hello%2C+Word!;Me+Chamo+Raphael.;Sej%C3%A1+Bem+Vindo!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=50&pause=500&color=FC5E01&center=true&vCenter=true&random=true&width=500&height=70&lines=Hello%2C+Word!+;Me+Chamo+Raphael+;Sej%C3%A1+Bem+Vindo+)](https://git.io/typing-svg)
 
 <h2>Um pouco sobre mim</h2>
 

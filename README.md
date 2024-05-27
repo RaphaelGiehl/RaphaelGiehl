@@ -1,5 +1,6 @@
 <img src="midias/1up-cafe.gif" alt="UpCafé" width="150" align = "right"/>
 
+<a href="[https://git.io/typing-svg](https://github.com/RaphaelGiehl/RaphaelGiehl/edit/main/README.md)"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/raphael-giehl-dos-santos-805580301/"
     target="_blank">

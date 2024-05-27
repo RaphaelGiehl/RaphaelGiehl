@@ -66,4 +66,4 @@
 </p>
 
  ---
-![snake gif](https://github.com/RaphaelGiehl/RaphaelGiehl/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](midias/github-contribution-grid-snake-dark.svg)

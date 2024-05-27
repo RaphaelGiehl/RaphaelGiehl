@@ -1,11 +1,7 @@
 <img src="midias/1up-cafe.gif" alt="UpCafé" width="150" align = "right"/>
 
-<a href="[https://git.io/typing-svg](https://github.com/RaphaelGiehl/RaphaelGiehl/edit/main/README.md)"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&duration=4000&pause=1000&color=FC5E01&center=true&vCenter=true&random=true&width=500&height=65&lines=Hello%2C+Word!;Me+Chamo+Raphael.;Sej%C3%A1+Bem+Vindo!)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/raphael-giehl-dos-santos-805580301/"
-    target="_blank">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&duration=4000&pause=1000&color=FC5E01&center=true&vCenter=true&random=true&width=500&height=65&lines=Hello%2C+Word!;Me+Chamo+Raphael.;Sej%C3%A1+Bem+Vindo!)](https://git.io/typing-svg)
-</a>
 
 <h2>Um pouco sobre mim</h2>
 

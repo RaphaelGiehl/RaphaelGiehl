@@ -62,5 +62,9 @@
   <img src="https://profile-counter.glitch.me/RaphaelGiehl/count.svg" />  
 </p>
 
- ---
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaphaelGiehl&bg_color=010033&color=ff5900&line=221fff&point=ff5900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 ![snake gif](midias/github-contribution-grid-snake-dark.svg)
